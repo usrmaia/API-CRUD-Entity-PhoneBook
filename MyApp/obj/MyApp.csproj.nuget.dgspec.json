@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/srmaia/GitHub/Entity-CRUD/MyApp/MyApp.csproj": {}
+    "C:\\Users\\georg\\Documentos\\GitHub\\Entity-CRUD\\MyApp\\MyApp.csproj": {}
   },
   "projects": {
-    "/home/srmaia/GitHub/Entity-CRUD/MyApp/MyApp.csproj": {
+    "C:\\Users\\georg\\Documentos\\GitHub\\Entity-CRUD\\MyApp\\MyApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/srmaia/GitHub/Entity-CRUD/MyApp/MyApp.csproj",
+        "projectUniqueName": "C:\\Users\\georg\\Documentos\\GitHub\\Entity-CRUD\\MyApp\\MyApp.csproj",
         "projectName": "MyApp",
-        "projectPath": "/home/srmaia/GitHub/Entity-CRUD/MyApp/MyApp.csproj",
-        "packagesPath": "/home/srmaia/.nuget/packages/",
-        "outputPath": "/home/srmaia/GitHub/Entity-CRUD/MyApp/obj/",
+        "projectPath": "C:\\Users\\georg\\Documentos\\GitHub\\Entity-CRUD\\MyApp\\MyApp.csproj",
+        "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\georg\\Documentos\\GitHub\\Entity-CRUD\\MyApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/srmaia/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\georg\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -38,25 +38,19 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[7.0.1, )"
-            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.1, )"
+              "version": "[6.0.5, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.1, )"
+              "version": "[6.0.5, )"
             },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
+            "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[7.0.1, )"
+              "version": "[6.2.3, )"
             }
           },
           "imports": [
@@ -65,7 +59,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -77,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.111/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

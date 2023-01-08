@@ -11,7 +11,7 @@ using MyApp.Context;
 namespace MyApp.Migrations
 {
     [DbContext(typeof(PhoneBookContext))]
-    [Migration("20230105193331_CreateTableContact")]
+    [Migration("20230107204631_CreateTableContact")]
     partial class CreateTableContact
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
