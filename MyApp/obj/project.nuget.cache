@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "er3T6yKPRdSu2UBZLvZ/rj2aa91NIlXaRuG4xVRUHU5eibuwtI0bqHNvskIye7WEthHy7U4ffw0PHYvQRyR9dw==",
+  "dgSpecHash": "pl7PvKOcMc9vF7zL6cjIuop5kkJU7Zp/PS6gHUgtGnwCWhXoJeHg12GcdW7SxBRPrPYzOnp35t2Q3n1Uj0jczQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\georg\\Documentos\\GitHub\\Entity-CRUD\\MyApp\\MyApp.csproj",
+  "projectFilePath": "C:\\Users\\georg\\Documentos\\GitHub\\API-CRUD-Entity-PhoneBook\\MyApp\\MyApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\georg\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\georg\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

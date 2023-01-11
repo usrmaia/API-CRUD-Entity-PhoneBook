@@ -1,5 +1,8 @@
-# Entity-CRUD
-
+# API-CRUD-Entity-PhoneBook
+API CRUD desenvolvido utilizando Entity Framework conectado a um banco de dados SQL Server PhoneBook (Agenda de Contatos).
+Imagem da API usando Swagger:
+!["Imagem da API usando Swagger"](./img/Captura%20de%20tela_20230111_084809.png)
+## Intalação de dependências
 1. Instalando EntityFrameworkCore (via terminal):
 ```
 dotnet add package Microsoft.EntityFrameworkCore.Design --version 6.0.5

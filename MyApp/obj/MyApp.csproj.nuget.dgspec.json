@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\georg\\Documentos\\GitHub\\Entity-CRUD\\MyApp\\MyApp.csproj": {}
+    "C:\\Users\\georg\\Documentos\\GitHub\\API-CRUD-Entity-PhoneBook\\MyApp\\MyApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\georg\\Documentos\\GitHub\\Entity-CRUD\\MyApp\\MyApp.csproj": {
+    "C:\\Users\\georg\\Documentos\\GitHub\\API-CRUD-Entity-PhoneBook\\MyApp\\MyApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\georg\\Documentos\\GitHub\\Entity-CRUD\\MyApp\\MyApp.csproj",
+        "projectUniqueName": "C:\\Users\\georg\\Documentos\\GitHub\\API-CRUD-Entity-PhoneBook\\MyApp\\MyApp.csproj",
         "projectName": "MyApp",
-        "projectPath": "C:\\Users\\georg\\Documentos\\GitHub\\Entity-CRUD\\MyApp\\MyApp.csproj",
+        "projectPath": "C:\\Users\\georg\\Documentos\\GitHub\\API-CRUD-Entity-PhoneBook\\MyApp\\MyApp.csproj",
         "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\georg\\Documentos\\GitHub\\Entity-CRUD\\MyApp\\obj\\",
+        "outputPath": "C:\\Users\\georg\\Documentos\\GitHub\\API-CRUD-Entity-PhoneBook\\MyApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\georg\\AppData\\Roaming\\NuGet\\NuGet.Config"
